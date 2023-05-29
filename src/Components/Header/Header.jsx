@@ -1,6 +1,5 @@
 import * as S from "./HeaderStyles";
 import Logo from "../../assets/logoDellMovies.png";
-import Movies from "../Movies/Movies";
 import { AiOutlineSearch } from "react-icons/ai";
 import MovieDescription from "./MovieDescription";
 

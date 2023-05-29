@@ -2,11 +2,11 @@ import styled from "styled-components";
 import BgAvatar from "../../assets/avatarBg.png";
 
 export const Header = styled.header`
+  height: 100vh;
   background-image: url(${BgAvatar});
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover;
-  height: 100vh;
   color: #fff;
   display: flex;
   flex-direction: column;
